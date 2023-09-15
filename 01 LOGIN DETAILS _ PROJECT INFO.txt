@@ -1,8 +1,5 @@
-**Log on to codeastro.com for more projects!***
 
 **Database Name: internetbanking**
-
-**Web Design By Cik thi**
 
 **Recommended PHP Version 5, 7, 8**
 
