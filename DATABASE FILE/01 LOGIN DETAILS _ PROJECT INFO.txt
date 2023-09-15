@@ -2,7 +2,7 @@
 
 **Database Name: internetbanking**
 
-**Developed by Martin Mbithi**
+**Web Design By Cik thi**
 
 **Recommended PHP Version 5, 7, 8**
 
