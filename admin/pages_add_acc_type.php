@@ -38,7 +38,7 @@ if (isset($_POST['create_acc_type'])) {
         <!-- Navbar -->
         <?php include("dist/_partials/nav.php"); ?>
         <!-- /.navbar -->
-
+<h1>ALLY SUU</h1>
         <!-- Main Sidebar Container -->
         <?php include("dist/_partials/sidebar.php"); ?>
 
