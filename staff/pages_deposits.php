@@ -29,7 +29,7 @@ $staff_id = $_SESSION['staff_id'];
           <div class="row mb-2">
             <div class="col-sm-6">
               <h1>Deposits</h1>
-            </div><!-- Log on to codeastro.com for more projects! -->
+            </div><!-- cikthi -->
             <div class="col-sm-6">
               <ol class="breadcrumb float-sm-right">
                 <li class="breadcrumb-item"><a href="pages_dashboard.php">Dashboard</a></li>
@@ -62,7 +62,7 @@ $staff_id = $_SESSION['staff_id'];
                       <th>Action</th>
                     </tr>
                   </thead>
-                  <tbody><!-- Log on to codeastro.com for more projects! -->
+                  <tbody><!-- cikthi -->
                     <?php
                     //fetch all iB_Accs
                     $ret = "SELECT * FROM  ib_bankAccounts ";
@@ -103,7 +103,7 @@ $staff_id = $_SESSION['staff_id'];
             <!-- /.card -->
           </div>
           <!-- /.col -->
-        </div><!-- Log on to codeastro.com for more projects! -->
+        </div><!-- cikthi -->
         <!-- /.row -->
       </section>
       <!-- /.content -->

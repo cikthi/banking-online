@@ -6,7 +6,7 @@ check_login();
 $client_id = $_SESSION['client_id'];
 
 ?>
-<!-- Log on to codeastro.com for more projects! -->
+<!-- cikthi -->
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -40,7 +40,7 @@ $client_id = $_SESSION['client_id'];
           </div>
         </div><!-- /.container-fluid -->
       </section>
-      <!-- Log on to codeastro.com for more projects! -->
+      <!-- cikthi -->
       <!-- Main content -->
       <section class="content">
         <div class="row">
@@ -104,7 +104,7 @@ $client_id = $_SESSION['client_id'];
             <!-- /.card -->
           </div>
           <!-- /.col -->
-        </div><!-- Log on to codeastro.com for more projects! -->
+        </div><!-- cikthi -->
         <!-- /.row -->
       </section>
       <!-- /.content -->

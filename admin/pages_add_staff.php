@@ -34,7 +34,7 @@ if (isset($_POST['create_staff_account'])) {
 
 ?>
 <!DOCTYPE html>
-<html><!-- Log on to codeastro.com for more projects! -->
+<html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <?php include("dist/_partials/head.php"); ?>
 

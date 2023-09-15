@@ -105,7 +105,7 @@ $stmt->close();
 //Withdrawal Computations
 
 ?>
-<!-- Log on to codeastro.com for more projects! -->
+<!-- cikthi -->
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -258,7 +258,7 @@ $stmt->close();
                       <i class="fas fa-times"></i>
                     </button>
                   </div>
-                </div><!-- Log on to codeastro.com for more projects! -->
+                </div><!-- cikthi -->
                 <!-- /.card-header -->
                 <div class="card-body">
                   <div class="row">
@@ -343,7 +343,7 @@ $stmt->close();
                       <i class="fas fa-times"></i>
                     </button>
                   </div>
-                </div><!-- Log on to codeastro.com for more projects! -->
+                </div><!-- cikthi -->
                 <!-- /.card-header -->
                 <div class="card-body p-0">
                   <div class="table-responsive">
@@ -393,7 +393,7 @@ $stmt->close();
 
                       </tbody>
                     </table>
-                  </div><!-- Log on to codeastro.com for more projects! -->
+                  </div><!-- cikthi -->
                   <!-- /.table-responsive -->
                 </div>
                 <!-- /.card-body -->

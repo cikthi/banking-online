@@ -11,7 +11,7 @@ $staff_id = $_SESSION['staff_id'];
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <?php include("dist/_partials/head.php"); ?>
-<!-- Log on to codeastro.com for more projects! -->
+<!-- cikthi -->
 <body class="hold-transition sidebar-mini layout-fixed layout-navbar-fixed">
   <div class="wrapper">
     <!-- Navbar -->
@@ -62,7 +62,7 @@ $staff_id = $_SESSION['staff_id'];
 
                     </tr>
                   </thead>
-                  <tbody><!-- Log on to codeastro.com for more projects! -->
+                  <tbody><!-- cikthi -->
                     <?php
                     //Get latest deposits transactions 
                     $ret = "SELECT * FROM  ib_Transactions  WHERE tr_type = 'Deposit' ";
@@ -105,7 +105,7 @@ $staff_id = $_SESSION['staff_id'];
           <!-- /.col -->
         </div>
         <!-- /.row -->
-      </section><!-- Log on to codeastro.com for more projects! -->
+      </section><!-- cikthi -->
       <!-- /.content -->
     </div>
     <!-- /.content-wrapper -->

@@ -42,7 +42,7 @@ if (isset($_POST['change_password'])) {
 
 
 ?>
-<!-- Log on to codeastro.com for more projects! -->
+
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -106,7 +106,7 @@ if (isset($_POST['change_password'])) {
                     </div><!-- /.container-fluid -->
                 </section>
 
-                <!-- Main content --><!-- Log on to codeastro.com for more projects! -->
+                <!-- Main content -->
                 <section class="content">
                     <div class="container-fluid">
                         <div class="row">
@@ -133,7 +133,7 @@ if (isset($_POST['change_password'])) {
 
                                         </ul>
 
-                                    </div><!-- Log on to codeastro.com for more projects! -->
+                                    </div>
                                     <!-- /.card-body -->
                                 </div>
                                 <!-- /.card -->
@@ -172,7 +172,7 @@ if (isset($_POST['change_password'])) {
                                                         <div class="col-sm-10">
                                                             <input type="text" class="form-control" required readonly name="number" value="<?php echo $row->number; ?>" id="inputName2">
                                                         </div>
-                                                    </div><!-- Log on to codeastro.com for more projects! -->
+                                                    </div>
                                                     <div class="form-group row">
                                                         <div class="offset-sm-2 col-sm-10">
                                                             <button name="update_account" type="submit" class="btn btn-outline-success">Update Account</button>
@@ -225,7 +225,7 @@ if (isset($_POST['change_password'])) {
                 <!-- /.content -->
 
             <?php } ?>
-        </div><!-- Log on to codeastro.com for more projects! -->
+        </div>
         <!-- /.content-wrapper -->
         <?php include("dist/_partials/footer.php"); ?>
 

@@ -105,7 +105,7 @@ $stmt->close();
 //Withdrawal Computations
 
 ?>
-<!-- Log on to codeastro.com for more projects! -->
+<!-- cikthi -->
 <!DOCTYPE html>
 <html lang="en">
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -258,7 +258,7 @@ $stmt->close();
               </div>
             </div>
             <!-- ./Balances-->
-          </div><!-- Log on to codeastro.com for more projects! -->
+          </div><!-- cikthi -->
 
           <div class="row">
             <div class="col-md-12">
@@ -305,7 +305,7 @@ $stmt->close();
                         <span class="description-text">TOTAL DEPOSITS</span>
                       </div>
                       <!-- /.description-block -->
-                    </div><!-- Log on to codeastro.com for more projects! -->
+                    </div><!-- cikthi -->
                     <!-- /.col -->
                     <div class="col-sm-3 col-6">
                       <div class="description-block border-right">
@@ -342,7 +342,7 @@ $stmt->close();
           <!-- /.row -->
 
           <!-- Main row -->
-          <div class="row"><!-- Log on to codeastro.com for more projects! -->
+          <div class="row"><!-- cikthi -->
             <!-- Left col -->
             <div class="col-md-12">
               <!-- TABLE: Transactions -->
@@ -373,7 +373,7 @@ $stmt->close();
                           <th>Timestamp</th>
                         </tr>
                       </thead>
-                      <tbody><!-- Log on to codeastro.com for more projects! -->
+                      <tbody><!-- cikthi -->
                         <?php
                         //Get latest transactions 
                         $ret = "SELECT * FROM `ib_Transactions` ORDER BY `ib_Transactions`.`created_at` DESC ";

@@ -76,7 +76,7 @@ if (isset($_POST['deposit'])) {
 
 
 
-?><!-- Log on to codeastro.com for more projects! -->
+?><!-- cikthi -->
 <!DOCTYPE html>
 <html>
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
